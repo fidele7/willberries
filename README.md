@@ -1,11 +1,9 @@
-# willberries - Учебный проект в Glo Academy
+# Willberries - Учебный проект в Glo Academy
 Выполнила проект - Светлана Иванова.
-
-В проекте использовались языки: 
+# В проекте использовались языки: 
 - HTML
 - CSS
 - JavaScript 
-
-Библиотеки: 
+# Библиотеки: 
 - Bootstrap v5
 - Swiper Slider JS
